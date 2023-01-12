@@ -1,0 +1,20 @@
+1,noodles,120,chinese,10
+2,shev bhaji,100,veg,9
+3,ice-cream,50,desert,29
+5,pizza,70,veg,14
+6,paneer tikka,200,veg,20
+7,manchurian,200,chinese,20
+8,veg pulao,100,veg,0
+9,chole bhature,100,veg,10
+10,tawa roti,10,chapati,50
+11,tandoori roti,10,chapati,50
+12,pav bhaji,100,veg,20
+13,pasta,100,italian,10
+14,mix veg,120,veg,10
+15,palak paneer,150,veg,10
+16,kaju curry,150,veg,10
+17,dal tadka,100,veg,10
+18,curd rice,80,veg,10
+19,veg finger,130,veg,10
+20,peanut chat,80,veg,10
+21,aloo rool,100,veg,10
